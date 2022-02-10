@@ -1,5 +1,6 @@
 {
     "name": "jayankaghosh/data-object",
+    "version": "1.0.0",
     "description": "A wrapper class that supports all types of getX, setX, and unsX methods. Inspired by Magento's DataObect",
     "type": "library",
     "license": "OSL-3.0",
