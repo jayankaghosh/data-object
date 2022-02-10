@@ -3,7 +3,7 @@ A wrapper class that supports all types of getX, setX, and unsX methods. Inspire
 
 ## Installation
 
-    composer require jayankaghosh/data-object
+    composer require jayankaghosh/dataobject
 
 ## Usage
 
