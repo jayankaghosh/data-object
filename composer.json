@@ -1,5 +1,5 @@
 {
-    "name": "jayankaghosh/data-object",
+    "name": "jayankaghosh/dataobject",
     "version": "1.0.0",
     "description": "A wrapper class that supports all types of getX, setX, and unsX methods. Inspired by Magento's DataObect",
     "type": "php-extension",
